@@ -37,7 +37,6 @@ Here is your project rebranded as **The Waving Robot**. I have updated the code 
 
 ---
 
-
 ---
 
 ### 🎨 Design Your Own Body
