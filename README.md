@@ -44,4 +44,8 @@
 *   **The Eyes:** Place the LCD screen in the "head" area.
 *   **The Vision:** Make sure the Ultrasonic Sensor has a clear view forward.
 
-**Share your custom designs using the hashtag #SmartWavingRobot!**
+**Share ![IMG_4300](https://github.com/user-attachments/assets/29179cc7-b1ac-4c87-89fd-a9adf8e11878)
+![IMG_4298](https://github.com/user-attachments/assets/8192b27a-819d-4462-a131-622e8230fe2b)
+![IMG_4297 (2)](https://github.com/user-attachments/assets/8f453678-6e0e-40ae-80dd-7999d4e9c787)
+![IMG_4345](https://github.com/user-attachments/assets/c7671ae6-81fa-4519-af53-b1c324c89033)
+your custom designs using the hashtag #SmartWavingRobot!**
