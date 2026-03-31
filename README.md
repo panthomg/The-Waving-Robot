@@ -1,5 +1,3 @@
-Here is your project rebranded as **The Waving Robot**. I have updated the code headers, the startup screen text, and the project documentation to reflect the new name while keeping the advanced gesture-recognition engine intact.
-
 ---
 
 # 👋 The Waving Robot (Open Source)
