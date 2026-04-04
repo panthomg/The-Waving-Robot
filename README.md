@@ -14,11 +14,15 @@
 ---
 
 ### 🛠 Hardware Needed
-1.  **Arduino Uno** (or any compatible board)
-2.  **Ultrasonic Sensor** (HC-SR04)
-3.  **LCD Display** (16x2 with I2C adapter)
-4.  **Servo Motor** (SG90 or MG90S)
-5.  **DHT11 Sensor** (Optional: for temperature/humidity)
+1. **Arduino Uno** (or any compatible board)  
+2. **Ultrasonic Sensor** (HC-SR04)  
+3. **LCD Display** (16x2 with I2C adapter)  
+4. **Servo Motor** (SG90 or MG90S)  
+5. **Breadboard**  
+6. **Jumper Wires** (male-to-male, male-to-female as needed)  
+7. **9V Battery**  
+8. **Battery Holder** (for powering the Arduino)  
+
 
 ---
 
